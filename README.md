@@ -29,7 +29,7 @@ This project is a sample **Node.js REST API** built using **Express.js**, featur
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nodejs-swagger-jwt-api.git
+   git clone https://github.com/mohammednedariyadev/node-swagger.git
    ```
    ```bash
    cd node-swagger
